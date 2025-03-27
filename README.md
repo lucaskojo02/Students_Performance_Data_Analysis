@@ -1,4 +1,5 @@
 # Exploratory Data Analysis (EDA) and Modelling Report
+![Medium Image](https://cdn-images-1.medium.com/max/800/0*uGSIJbw5FHlwzqBg.jpg)
 
 ## 1. Introduction
 
