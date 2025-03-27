@@ -76,6 +76,5 @@ can help educators develop data-driven strategies for academic improvement.
 ## *7. References*  
 ## *7. References*  
 - [Hanushek, E. A., & Woessmann, L. (2011). "The Economics of International Differences in Educational Achievement."](https://www.nber.org/papers/w15949)  
-- [Bishop, J. H. (1997). "The Effect of Curriculum-Based External Exit Exam Systems on Student Achievement."](https://journals.sagepub.com/doi/abs/10.3102/01623737019002177)  
 - [The Hidden Keys to Student Success: What Really Drives Performance?](https://medium.com/@crispinoigara/the-hidden-keys-to-student-success-what-really-drives-performance-b88b2aef37b3)
 
