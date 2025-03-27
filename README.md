@@ -74,7 +74,7 @@ Several machine learning models were trained and evaluated, including:
 This analysis provides valuable insights into student learning patterns and can help educators develop data-driven strategies for academic improvement.
 can help educators develop data-driven strategies for academic improvement.
 
-## *7. References*  
+## 5. References 
 - [The Hidden Keys to Student Success: What Really Drives Performance?](https://medium.com/@crispinoigara/the-hidden-keys-to-student-success-what-really-drives-performance-b88b2aef37b3)
 - [Hanushek, E. A., & Woessmann, L. (2011). "The Economics of International Differences in Educational Achievement."](https://www.nber.org/papers/w15949)  
 
