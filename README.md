@@ -22,8 +22,8 @@ This report summarizes the findings from exploratory data analysis (EDA) and pre
 
 #### Correlation Analysis
 
-- **Strong positive correlation** between study hours and performance.
-- **Moderate positive correlation** between attendance and performance.
+- **Strong positive correlation** between attendance(0.58) and exam score, and hours studied(0.45) and exam score.
+- **Moderate positive correlation** between previous score(0.18) and exam score, and tutoring sessions(0.16) and exam score.
 - **Weak correlation** between sleep hours and performance.
 
 #### Box Plot Insights
@@ -41,18 +41,21 @@ Several machine learning models were trained and evaluated, including:
   - Simple yet effective for predicting student scores.  
   - R² score indicates moderate explanatory power.  
 
-- **Decision Tree Regression**  
-  - Captures non-linear relationships but may overfit.  
-
 - **Random Forest Regression**  
   - Provides better generalization with ensemble learning.  
-  - Achieved the highest accuracy among tested models.  
+  - Achieved the highest accuracy among tested models.
+
+- **XGBoost**  
+  - Enhanced accuracy, leveragin sequential tree boosting to correct residual errors.
+  - Achieved the highest predictive performance and was selected as the final model for interpretation and deployment.
+
 
 ### 3.2 Model Evaluation
 
 - **Mean Squared Error (MSE):** Used to measure prediction accuracy.
 - **R² Score:** Evaluated how well the model explains variance in student performance.
 - **Random Forest** performed best in balancing bias and variance.
+- **XGBoost** Achieved the highest predictive performance.
 
 ## 4. Conclusion and Recommendations
 
